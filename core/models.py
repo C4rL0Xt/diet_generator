@@ -10,7 +10,7 @@ class DietaGenerator:
             Indique los alimentos sugeridos para desayuno, almuerzo, cena y snacks. 
             Asegúrese de proporcionar un análisis nutricional detallado, 
             incluyendo calorías, proteínas, grasas y carbohidratos por comida. 
-            Use un lenguaje formal y claro.
+            Use un lenguaje formal y claro. En un formato json.
             """
         )
 
